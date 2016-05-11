@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "I'm a buildpack!"
+exit 0
