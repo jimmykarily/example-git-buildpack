@@ -1,4 +1,5 @@
 #!/bin/sh
 
 echo "I'm a buildpack!"
+sleep 16
 exit 1
